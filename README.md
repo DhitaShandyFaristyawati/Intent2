@@ -12,5 +12,5 @@
 
 ![Image of 6](https://github.com/DhitaShandyFaristyawati/Intent2/blob/master/6.png)
 
-**Identitas** 
-NAMA : Dhita Shandy Faristyawati, KELAS : XIIRPL3, ABSEN : 11, NIS : 4323/1221.063, SMK Telkom Malang
+
+**NAMA : Dhita Shandy Faristyawati, KELAS : XIIRPL3, ABSEN : 11, NIS : 4323/1221.063, SMK Telkom Malang**
