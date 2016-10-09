@@ -1,24 +1,24 @@
 # Intent2
 
-**Tampilan Awal :**
+###**Tampilan Awal :**
 
 ![Image of 4](https://github.com/DhitaShandyFaristyawati/Intent2/blob/master/4.png)
 
-**Tampilan Input Biodata :**
+###**Tampilan Input Biodata :**
 
 ![Image of 5](https://github.com/DhitaShandyFaristyawati/Intent2/blob/master/5.png)
 
-**Tampilan Hasil :**
+###**Tampilan Hasil :**
 
 ![Image of 6](https://github.com/DhitaShandyFaristyawati/Intent2/blob/master/6.png)
 
 
-**NAMA : Dhita Shandy Faristyawati**
+>**NAMA : Dhita Shandy Faristyawati**
 
-**KELAS : XIIRPL3**
+>**KELAS : XIIRPL3**
 
-**ABSEN : 11**
+>**ABSEN : 11**
 
-**NIS : 4323/1221.063**
+>**NIS : 4323/1221.063**
 
-**SMK Telkom Malang**
+>**SMK Telkom Malang**
